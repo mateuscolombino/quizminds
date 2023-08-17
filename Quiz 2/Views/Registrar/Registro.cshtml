@@ -1,4 +1,8 @@
-﻿<head> 
+﻿@{
+    ViewData["Title"] = "Registrar";
+}
+
+<head> 
     <link href="https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="~/css/globalStyles.css">
     <link rel="stylesheet" href="~/css/index.css">
@@ -28,7 +32,7 @@
 
     <div class="d-grid gap-2">
         <button type="submit" class="btn btn-primary">Registrar</button>
-        <a class="btn btn-secondary" asp-controller="Registrar" asp-action="Index" role="button">Voltar</a>
+        <a class="btn btn-secondary" asp-controller="Home" asp-action="Index" role="button">Voltar</a>
     </div>  
 
 </form>

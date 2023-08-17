@@ -39,3 +39,11 @@ body {
     flex-direction: column;
     gap: 1rem;
 }
+.text-bold-border {
+    color: black; /* Cor do texto */
+    text-shadow: -1px -1px 0 white, /* Sombra superior esquerda */
+    1px -1px 0 white, /* Sombra superior direita */
+    -1px 1px 0 white, /* Sombra inferior esquerda */
+    1px 1px 0 white; /* Sombra inferior direita */
+    font-size: 2rem; /* Tamanho da fonte */
+}

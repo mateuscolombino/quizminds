@@ -8,6 +8,10 @@ namespace Quiz_2.Controllers
         {
             return View();
         }
+        public IActionResult Play()
+        {
+            return View();
+        }
         public IActionResult Registro()
         {
             return View();

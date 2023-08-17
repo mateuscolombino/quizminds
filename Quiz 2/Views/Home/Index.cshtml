@@ -17,13 +17,13 @@
 <body>
     <main>
         <header class="header">
-            <h1 class="header__title">Quiz Minds: Trivea Expedition</h1>
+            <h1 class="header__title" style="font-family:Arial;">Quiz Minds: Trivea Expedition</h1>
         </header>
         <section class="section">
             <div class="section__div">
-                <button id="playButton" class="section__buttons">PLAY</button>
-                <button id="registrarButton" class="section__buttons">REGISTRO</button>
-                <button id="dificultyButton" class="section__buttons">DIFICULDADE</button>
+                <a class="btn btn-secondary" style="background-color: rebeccapurple; font-size: 1.3rem" asp-controller="Registrar" asp-action="Play" role="button">PLAY</a>
+                <a class="btn btn-secondary" style="background-color: rebeccapurple; font-size: 1.3rem" asp-controller="Registrar" asp-action="Registro" role="button">REGISTRAR</a>
+                <a class="btn btn-secondary" style="background-color: rebeccapurple; font-size: 1.3rem"asp-controller="Registrar" asp-action="Dificuldade" role="button">DIFICULDADE</a>
                 
             </div>
         </section>
