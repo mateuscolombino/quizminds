@@ -1,0 +1,31 @@
+C:\Users\mateu\Desktop\faculdade\projetos\Quiz 2\Quiz 2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mateu\Desktop\faculdade\projetos\Quiz 2\Quiz 2\bin\Debug\net6.0\appsettings.json
+C:\Users\mateu\Desktop\faculdade\projetos\Quiz 2\Quiz 2\bin\Debug\net6.0\Quiz 2.staticwebassets.runtime.json
+C:\Users\mateu\Desktop\faculdade\projetos\Quiz 2\Quiz 2\bin\Debug\net6.0\Quiz 2.exe
+C:\Users\mateu\Desktop\faculdade\projetos\Quiz 2\Quiz 2\bin\Debug\net6.0\Quiz 2.deps.json
+C:\Users\mateu\Desktop\faculdade\projetos\Quiz 2\Quiz 2\bin\Debug\net6.0\Quiz 2.runtimeconfig.json
+C:\Users\mateu\Desktop\faculdade\projetos\Quiz 2\Quiz 2\bin\Debug\net6.0\Quiz 2.dll
+C:\Users\mateu\Desktop\faculdade\projetos\Quiz 2\Quiz 2\bin\Debug\net6.0\Quiz 2.pdb
+C:\Users\mateu\Desktop\faculdade\projetos\Quiz 2\Quiz 2\obj\Debug\net6.0\Quiz 2.csproj.AssemblyReference.cache
+C:\Users\mateu\Desktop\faculdade\projetos\Quiz 2\Quiz 2\obj\Debug\net6.0\Quiz 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\Desktop\faculdade\projetos\Quiz 2\Quiz 2\obj\Debug\net6.0\Quiz 2.AssemblyInfoInputs.cache
+C:\Users\mateu\Desktop\faculdade\projetos\Quiz 2\Quiz 2\obj\Debug\net6.0\Quiz 2.AssemblyInfo.cs
+C:\Users\mateu\Desktop\faculdade\projetos\Quiz 2\Quiz 2\obj\Debug\net6.0\Quiz 2.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Desktop\faculdade\projetos\Quiz 2\Quiz 2\obj\Debug\net6.0\Quiz 2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mateu\Desktop\faculdade\projetos\Quiz 2\Quiz 2\obj\Debug\net6.0\Quiz 2.RazorAssemblyInfo.cache
+C:\Users\mateu\Desktop\faculdade\projetos\Quiz 2\Quiz 2\obj\Debug\net6.0\Quiz 2.RazorAssemblyInfo.cs
+C:\Users\mateu\Desktop\faculdade\projetos\Quiz 2\Quiz 2\obj\Debug\net6.0\staticwebassets\msbuild.Quiz 2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mateu\Desktop\faculdade\projetos\Quiz 2\Quiz 2\obj\Debug\net6.0\staticwebassets\msbuild.build.Quiz 2.props
+C:\Users\mateu\Desktop\faculdade\projetos\Quiz 2\Quiz 2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Quiz 2.props
+C:\Users\mateu\Desktop\faculdade\projetos\Quiz 2\Quiz 2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Quiz 2.props
+C:\Users\mateu\Desktop\faculdade\projetos\Quiz 2\Quiz 2\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mateu\Desktop\faculdade\projetos\Quiz 2\Quiz 2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mateu\Desktop\faculdade\projetos\Quiz 2\Quiz 2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mateu\Desktop\faculdade\projetos\Quiz 2\Quiz 2\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mateu\Desktop\faculdade\projetos\Quiz 2\Quiz 2\obj\Debug\net6.0\scopedcss\bundle\Quiz 2.styles.css
+C:\Users\mateu\Desktop\faculdade\projetos\Quiz 2\Quiz 2\obj\Debug\net6.0\scopedcss\projectbundle\Quiz 2.bundle.scp.css
+C:\Users\mateu\Desktop\faculdade\projetos\Quiz 2\Quiz 2\obj\Debug\net6.0\Quiz 2.dll
+C:\Users\mateu\Desktop\faculdade\projetos\Quiz 2\Quiz 2\obj\Debug\net6.0\refint\Quiz 2.dll
+C:\Users\mateu\Desktop\faculdade\projetos\Quiz 2\Quiz 2\obj\Debug\net6.0\Quiz 2.pdb
+C:\Users\mateu\Desktop\faculdade\projetos\Quiz 2\Quiz 2\obj\Debug\net6.0\Quiz 2.genruntimeconfig.cache
+C:\Users\mateu\Desktop\faculdade\projetos\Quiz 2\Quiz 2\obj\Debug\net6.0\ref\Quiz 2.dll

@@ -1,0 +1,23 @@
+html {
+  font-size: 14px;
+}
+
+
+@media (min-width: 768px) {
+  html {
+    font-size: 32px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background-image: url(../autor.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
